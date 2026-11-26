@@ -311,7 +311,7 @@ export const contentAr: PortfolioData = {
   stats: [
     { number: "+23", label: "عاماً من الخبرة", sublabel: "في تدريس وتدريب التمريض" },
     { number: "%100", label: "تقارير أداء بتقدير ممتاز", sublabel: "تميز مستمر طوال سنوات الخدمة" },
-    { number: "TOT", label: "مدربة مدربين معتمدة", sublabel: "أحدث طرائق التدريس الفعالة" },
+    { number: "TOT", label: "مدربة مدربين معتمدة", sublabel: "أحدث طرق التدريس الفعالة" },
     { number: "الآلاف", label: "تأهيل كوادر تمريضية", sublabel: "أجيال تخدم المنظومة الصحية" }
   ],
   experience: {
@@ -344,7 +344,7 @@ export const contentAr: PortfolioData = {
   certifications: [
     {
       id: 1,
-      title: "تدريب المدربين (TOT) لأخصائيي التمريض على طرائق التدريس",
+      title: "تدريب المدربين (TOT) لأخصائيي التمريض على طرق التدريس",
       institution: "الإدارة العامة للمعاهد الفنية الصحية",
       grade: "ممتاز",
       badge: "مدرب معتمد",
@@ -365,7 +365,7 @@ export const contentAr: PortfolioData = {
     },
     {
       id: 4,
-      title: "طرائق التدريس الحديثة",
+      title: "طرق التدريس الحديثة",
       institution: "مركز تدريب سموحة",
       category: "tot"
     },
@@ -398,7 +398,7 @@ export const contentAr: PortfolioData = {
       items: [
         "تدريس مناهج التمريض النظرية والتطبيقية",
         "تدريب المدربين (TOT)",
-        "طرائق التدريس الحديثة والتفاعلية",
+        "طرق التدريس الحديثة والتفاعلية",
         "تصميم وإدارة ورش العمل التعليمية",
         "التدريس والتدريب الإلكتروني (Online Training)",
         "تقييم الطلاب والإرشاد الأكاديمي والمهني"
