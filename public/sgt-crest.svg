@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="crestGrad" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#102A56" />
+      <stop offset="55%" stop-color="#1D4ED8" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="20" y1="20" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+  </defs>
+  <path d="M60 8L104 24V56C104 83.5 85.2 106.4 60 114C34.8 106.4 16 83.5 16 56V24L60 8Z" fill="url(#crestGrad)" />
+  <path d="M60 13L99 27.2V56C99 80.5 82.4 100.9 60 108.1C37.6 100.9 21 80.5 21 56V27.2L60 13Z" stroke="url(#accentGrad)" stroke-width="2" stroke-opacity="0.7" />
+  <path d="M60 27V39M54 33H66" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" />
+  <text x="60" y="72" text-anchor="middle" fill="#FFFFFF" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-weight="800" font-size="28" letter-spacing="2">SGT</text>
+  <path d="M38 84H82" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.85" />
+</svg>
